@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1790250664164,
+      "tag": "0000_jazzy_quicksilver",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1790255063689,
+      "tag": "0001_magenta_doorman",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1790895088637,
+      "tag": "0002_auth_state",
+      "breakpoints": true
+    }
+  ]
+}

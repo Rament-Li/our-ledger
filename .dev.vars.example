@@ -1,0 +1,3 @@
+# Replace both values locally; never publish your .dev.vars file.
+CAPTURE_TOKEN=YOUR_RANDOM_CAPTURE_TOKEN
+ENROLMENT_CODE=YOUR_RANDOM_ENROLMENT_CODE
